@@ -75,6 +75,7 @@ let swiperPopular = new Swiper(".popular__container", {
     pagination: {
         el: ".swiper-pagination",
         dynamicBullets: true,
+        clickable: true, // enables clickable pagination
     },
 
     breakpoints: {

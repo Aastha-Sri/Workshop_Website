@@ -9,7 +9,7 @@
 }
 
 .popular__data-group a[href="#offer"]:hover {
-  text-decoration: underline; 
+  text-decoration: none; 
 }
 
 
